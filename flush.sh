@@ -1,0 +1,1 @@
+discoveryutil mdnsflushcache; discoveryutil udnsflushcache
